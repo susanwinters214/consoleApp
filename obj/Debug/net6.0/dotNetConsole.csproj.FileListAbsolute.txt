@@ -1,0 +1,15 @@
+C:\REPOS\TrueCoders\csharp\dotNetConsole\bin\Debug\net6.0\dotNetConsole.exe
+C:\REPOS\TrueCoders\csharp\dotNetConsole\bin\Debug\net6.0\dotNetConsole.deps.json
+C:\REPOS\TrueCoders\csharp\dotNetConsole\bin\Debug\net6.0\dotNetConsole.runtimeconfig.json
+C:\REPOS\TrueCoders\csharp\dotNetConsole\bin\Debug\net6.0\dotNetConsole.dll
+C:\REPOS\TrueCoders\csharp\dotNetConsole\bin\Debug\net6.0\dotNetConsole.pdb
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.AssemblyInfo.cs
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.dll
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\refint\dotNetConsole.dll
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.pdb
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\dotNetConsole.genruntimeconfig.cache
+C:\REPOS\TrueCoders\csharp\dotNetConsole\obj\Debug\net6.0\ref\dotNetConsole.dll
